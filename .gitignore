@@ -19,3 +19,7 @@ MANIFEST
 *.po~
 Pipfile
 *.lock
+
+
+autosub/*.flac
+autosub/*.srt
